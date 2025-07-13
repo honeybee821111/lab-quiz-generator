@@ -1,0 +1,46 @@
+[실험 보고서 템플릿]
+
+실험명: PCR (Polymerase Chain Reaction)
+
+1. 실험 목적  
+- 특정 유전자의 존재 여부 또는 발현량을 확인하기 위해 DNA 증폭 기술인 PCR을 수행한다.
+
+2. 실험 재료 및 시약  
+- Template DNA  
+- Forward/Reverse primer  
+- dNTP mixture  
+- Taq DNA polymerase  
+- PCR buffer (+MgCl₂)  
+- DW (멸균 증류수)  
+- PCR 튜브, 마이크로피펫, PCR 기기
+
+3. 실험 방법 요약  
+1) Master mix 조성  
+- PCR 반응당 구성 (총 20 µL 예시):  
+  - Template DNA: 1 µL  
+  - Forward primer (10 µM): 1 µL  
+  - Reverse primer (10 µM): 1 µL  
+  - dNTP mix: 0.5 µL  
+  - Taq polymerase: 0.2 µL  
+  - Buffer (10X): 2 µL  
+  - DW: 나머지 부피 보정
+
+2) Thermal Cycler 조건  
+- 95°C 3분 →  
+  (95°C 30초 → 55–60°C 30초 → 72°C 1분) × 30–35회 반복 →  
+  72°C 5분 → 4°C 보관
+
+4. 결과 기록  
+- Gel 전기영동 후 밴드 확인  
+- 대상 유전자 크기: ______ bp  
+- 검출 여부: □ 있음 / □ 없음  
+- 비특이적 밴드 여부: □ 있음 / □ 없음
+
+5. 고찰  
+- 프라이머 최적화 여부  
+- Template 농도에 따른 증폭 효율 비교  
+- negative control과의 비교 결과
+
+6. 참고문헌  
+- Sambrook and Russell. Molecular Cloning, Cold Spring Harbor.  
+- 논문 또는 실험실 내부 프로토콜 참조
