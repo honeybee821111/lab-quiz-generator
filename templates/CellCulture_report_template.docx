@@ -1,0 +1,41 @@
+[실험 보고서 템플릿]
+
+실험명: Cell Culture (세포 배양)
+
+1. 실험 목적  
+- 무균 상태에서 세포를 배양하고, 세포의 성장 및 형태를 관찰하며, 오염 여부를 주기적으로 점검한다.
+
+2. 실험 재료 및 시약  
+- 배양세포주 (예: NIH-3T3, HEK293 등)  
+- 배양배지 (예: DMEM + 10% FBS + 1% Pen/Strep)  
+- PBS(-), Trypsin-EDTA  
+- Cell culture dish/flask (100 mm or T-75)  
+- CO₂ 인큐베이터 (5%, 37°C), 현미경, BSC, 마이크로피펫 등
+
+3. 실험 방법 요약  
+1) 세포 해동 및 초기 배양  
+- 냉동 보관된 세포를 37°C 수조에서 해동 후, 원심분리하여 배지를 교체  
+- T75 flask에 배양 후, 70–80% confluency 도달 시 passage
+
+2) Subculture  
+- PBS로 세포 세척 → Trypsin 처리(2–3분) → 중화 및 계대  
+- 세포 밀도 확인 후 적절한 희석 배양
+
+3) 오염 점검  
+- 육안관찰 및 DAPI staining, Mycoplasma PCR 등으로 점검
+
+4. 결과 기록  
+- 세포주 이름: __________  
+- passage number: __________  
+- 배양일 수: __________  
+- confluency: □ 30% □ 50% □ 80% 이상  
+- 세포 형태 변화 또는 오염: □ 없음 □ 의심 □ 확진
+
+5. 고찰  
+- 배양 속도 및 morphology 변화  
+- Trypsin 처리 시간 최적화 여부  
+- 오염 예방을 위한 개선점
+
+6. 참고문헌  
+- ATCC Cell Culture Manual  
+- 세포주-specific SOP 또는 내부 매뉴얼
