@@ -1,0 +1,45 @@
+[실험 보고서 템플릿]
+
+실험명: Western blot
+
+1. 실험 목적  
+- 세포 또는 조직에서 특정 단백질의 발현 여부 및 발현량을 확인하기 위해 Western blot을 수행한다.
+
+2. 실험 재료 및 시약  
+- 단백질 추출용 RIPA buffer + protease inhibitor  
+- BCA kit (단백질 정량)  
+- SDS-PAGE gel (10–12%)  
+- PVDF membrane  
+- Primary antibody (예: anti-GAPDH, anti-Target)  
+- Secondary antibody (HRP-conjugated)  
+- ECL 용액, 전기영동/전이 장비, 발색장비(ChemiDoc 등)
+
+3. 실험 방법 요약  
+1) 단백질 추출 및 정량  
+- 세포/조직에 RIPA buffer 처리 → 원심분리 → 상층 확보  
+- BCA 정량 → loading sample 준비
+
+2) SDS-PAGE → Membrane 전이  
+- 전기영동 100V, 1–2시간  
+- PVDF membrane에 전이 (Semi-dry 또는 Wet transfer)
+
+3) 항체 반응 및 발색  
+- Blocking (5% BSA, 1시간)  
+- 1차 항체 (overnight at 4°C) → 2차 항체 (1시간)  
+- ECL 반응 후 밴드 확인 및 이미지 저장
+
+4. 결과 기록  
+- 단백질명: __________  
+- 밴드 예상 크기: __________ kDa  
+- 샘플 로딩 양: __________ µg  
+- 밴드 관찰 결과: □ 뚜렷함 □ 약함 □ 없음  
+- GAPDH 대조군 결과: □ 양호 □ 이상
+
+5. 고찰  
+- 비특이적 밴드 발생 원인  
+- 항체 희석비, blocking 조건, loading 양의 적절성  
+- 다음 실험을 위한 개선안 제시
+
+6. 참고문헌  
+- Towbin et al. “Electrophoretic transfer of proteins…” (1979)  
+- 제조사 항체 데이터시트 및 실험실 SOP
