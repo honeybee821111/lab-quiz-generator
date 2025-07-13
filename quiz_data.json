@@ -1,0 +1,114 @@
+{
+  "STZ 주사액 제조": [
+    {
+      "type": "mcq",
+      "question": "STZ 완충액 제조에 가장 많이 사용되는 pH는?",
+      "options": ["pH 3.0", "pH 4.5", "pH 7.0", "pH 9.0"],
+      "answer": "pH 4.5"
+    },
+    {
+      "type": "mcq",
+      "question": "STZ 주사액은 사용 직전에 제조하는 이유는?",
+      "options": ["냄새가 나서", "광독성이 있어서", "수분에 의해 빠르게 분해되어서", "온도에 민감해서"],
+      "answer": "수분에 의해 빠르게 분해되어서"
+    },
+    {
+      "type": "mcq",
+      "question": "STZ 완충액 제조 시 사용되는 완충제는?",
+      "options": ["PBS", "Tris", "Citric Acid", "HEPES"],
+      "answer": "Citric Acid"
+    },
+    {
+      "type": "subjective",
+      "question": "STZ 주사 전 마우스에게 금식이 필요한 이유를 서술하시오."
+    },
+    {
+      "type": "subjective",
+      "question": "STZ를 취급할 때 안전을 위해 반드시 지켜야 할 사항을 서술하시오."
+    }
+  ],
+  "PCR": [
+    {
+      "type": "mcq",
+      "question": "PCR에 사용되지 않는 성분은?",
+      "options": ["DNA polymerase", "dNTP", "RNA ligase", "Primer"],
+      "answer": "RNA ligase"
+    },
+    {
+      "type": "mcq",
+      "question": "PCR의 3단계 중 DNA가 이중가닥으로 결합하는 단계는?",
+      "options": ["Denaturation", "Annealing", "Extension", "Elution"],
+      "answer": "Annealing"
+    },
+    {
+      "type": "mcq",
+      "question": "Taq polymerase의 작용 온도는?",
+      "options": ["37°C", "55°C", "72°C", "95°C"],
+      "answer": "72°C"
+    },
+    {
+      "type": "subjective",
+      "question": "PCR 실험에서 negative control의 역할을 설명하시오."
+    },
+    {
+      "type": "subjective",
+      "question": "PCR 결과 분석에서 밴드의 세기 차이는 무엇을 의미할 수 있는가?"
+    }
+  ],
+  "Cell culture": [
+    {
+      "type": "mcq",
+      "question": "세포 배양에 일반적으로 사용하는 CO₂ 농도는?",
+      "options": ["0%", "2%", "5%", "10%"],
+      "answer": "5%"
+    },
+    {
+      "type": "mcq",
+      "question": "세포 배양 시 흔히 사용되는 배지는?",
+      "options": ["LB", "DMEM", "TBE", "PBS"],
+      "answer": "DMEM"
+    },
+    {
+      "type": "mcq",
+      "question": "Mycoplasma 오염 시 세포에서 흔히 나타나는 변화는?",
+      "options": ["배양액이 붉어진다", "pH가 올라간다", "성장이 빨라진다", "핵이 부풀어 오른다"],
+      "answer": "배양액이 붉어진다"
+    },
+    {
+      "type": "subjective",
+      "question": "Contamination을 예방하기 위한 배양 시 주의사항을 2가지 이상 서술하시오."
+    },
+    {
+      "type": "subjective",
+      "question": "Trypsin 처리 시 세포가 떨어지지 않는 경우 어떻게 대응해야 하는가?"
+    }
+  ],
+  "Western blot": [
+    {
+      "type": "mcq",
+      "question": "Western blot에서 단백질 분리 시 사용하는 젤은?",
+      "options": ["Agarose gel", "Polyacrylamide gel", "Starch gel", "Collagen gel"],
+      "answer": "Polyacrylamide gel"
+    },
+    {
+      "type": "mcq",
+      "question": "1차 항체의 역할은?",
+      "options": ["표적 단백질과 결합", "형광 신호 생성", "젤에 단백질 고정", "단백질 전기영동"],
+      "answer": "표적 단백질과 결합"
+    },
+    {
+      "type": "mcq",
+      "question": "단백질 전이를 위해 사용하는 막은?",
+      "options": ["PVDF", "Gelatin", "Cellulose", "Acrylic"],
+      "answer": "PVDF"
+    },
+    {
+      "type": "subjective",
+      "question": "Western blot에서 비특이적 밴드가 나타날 경우 가능한 원인과 해결 방안을 서술하시오."
+    },
+    {
+      "type": "subjective",
+      "question": "Blocking의 목적을 설명하시오."
+    }
+  ]
+}
