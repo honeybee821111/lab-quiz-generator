@@ -1,1 +1,23 @@
+{
+  "STZ 주사액 제조": [
+    {
+      "type": "mcq",
+      "question": "STZ 완충액 제조에 가장 많이 사용되는 pH는?",
+      "options": ["pH 3.0", "pH 4.5", "pH 7.0", "pH 9.0"],
+      "answer": "pH 4.5"
+    },
+    {
+      "type": "subjective",
+      "question": "STZ 주사 전 마우스에게 금식이 필요한 이유를 서술하시오."
+    }
+  ],
+  "PCR": [
+    {
+      "type": "mcq",
+      "question": "PCR의 3단계 중 DNA가 이중가닥으로 결합하는 단계는?",
+      "options": ["Denaturation", "Annealing", "Extension", "Elution"],
+      "answer": "Annealing"
+    }
+  ]
+}
 
