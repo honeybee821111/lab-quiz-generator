@@ -45,7 +45,9 @@ if st.button("✅ 정답 확인"):
 
 # 보고서 다운로드
 st.subheader("📄 보고서 템플릿 다운로드")
-template_path = f"templates/{selected_exp.replace(' ', '')}_report_template.docx"
+
+# ✅ 언더바 없는 버전으로 파일 경로 생성
+template_path = f"templates/{selected_exp.replace(' ', '')}.docx"
 
 def load_docx(path):
     doc = Document(path)
@@ -58,6 +60,6 @@ docx_file = load_docx(template_path)
 st.download_button(
     label="📥 보고서 템플릿 다운로드 (.docx)",
     data=docx_file,
-    file_name=f"{selected_exp.replace(' ', '_')}_Report_Template.docx",
+    file_name=f"{selected_exp.replace(' ', '')}_Report.docx",
     mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
 )
